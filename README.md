@@ -32,6 +32,8 @@ Enjoy watching!
 
 ![Video Title](path/to/your/video.mp4)
 
+![Video](path/to/your/video.mp4)
+
  
 
 
