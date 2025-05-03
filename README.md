@@ -1,6 +1,5 @@
 # Introduction
-This is an example of a thematic educational software I developed during my military service, in honor of World Environment Day. The project focused on environmental protection and sustainability, and was designed as an interactive learning experience for soldiers.
-I independently planned, wrote, and programmed the entire experience – from the concept and educational content to the technical development and implementation – using tools and skills I acquired during my training, including ActionScript 3 (AS3), Adobe Animate, and Adobe Flash. I worked in collaboration with a graphic design team.
+This is a thematic educational software project I developed during my military service to commemorate World Environment Day. Designed as an interactive learning experience for soldiers, the program focused on environmental protection and sustainability. I independently led the development—from concept and technical implementation to programming—using tools such as ActionScript 3 (AS3), Adobe Animate, and Adobe Flash. The educational content was sourced from the media team of the Education Corps, where I served, and I collaborated with a graphic design team to complete the project.
 
 
 # Explanation
