@@ -29,12 +29,8 @@ This project aimed to deliver environmental education in a fun, gamified format 
 
 Enjoy watching!
 
+[Click here to watch the video](https://youtu.be/i20yhU5p1H4)
 
-![Video Title](Green-Room-Challenge demo.mp4)
-
-![Video](path/to/your/video.mp4)
-
- 
 
 
 
