@@ -29,6 +29,12 @@ This project aimed to deliver environmental education in a fun, gamified format 
 
 Enjoy watching!
 
+
+
+![Video](https://github.com/user-attachments/assets/d53af6aa-e487-4061-81c4-8839a891cb07)
+
+
+
 [Click here to watch the video](https://youtu.be/i20yhU5p1H4)
 
 
